@@ -88,10 +88,10 @@ public class Rectangle {
 1000| 2000  |-----> 2004|width    |
 1004|_______|       2008|height   |
      rectangle      2012|getArea  |
-	                2016|getWidth |
-					2020|setWidth |
-					2024|getHeight|
-					2028|setHeight|
+	            2016|getWidth |
+		    2020|setWidth |
+		    2024|getHeight|
+		    2028|setHeight|
 						
 
 9. 클래스와 객체의 차이는?
